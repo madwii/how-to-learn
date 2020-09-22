@@ -1,0 +1,8 @@
+.feynman {
+  min-height:790px;
+  /* выше установили ограничения для секции */
+  background-color: #f2f2f2;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+ }
